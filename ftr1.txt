@@ -1,1 +1,2 @@
 add ftr1
+add ftr1 member
